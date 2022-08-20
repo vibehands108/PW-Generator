@@ -1,0 +1,57 @@
+body {
+    margin: 0;
+    background: #1F2937;
+    color: white;
+    margin-left: 40px;
+}
+
+h1{
+    font-family: 'Karla', sans-serif;
+    font-weight: 800;
+}
+
+h4{
+    font-family: 'Inter', sans-serif;
+}
+
+#green {
+    color: #4ADF86;
+}
+
+#medium-grey{
+    color: grey;
+}
+
+button{
+    background: #10B981;
+    border: none; 
+    border-radius: 5px;
+    padding: 10px 15px;
+    color: white; 
+    font-family: 'Inter', sans-serif;
+
+}
+
+hr{
+    border: 1px solid #2F3E53;
+    margin: 30px;
+}
+
+.passbox {
+    width: 211px;
+    height: 39px;
+    background: #273549;
+    border-radius: 6px;
+    font-family: 'Inter', sans-serif;
+    margin: 20px; 
+    color: #55F991;
+    display: flex; 
+    justify-content: center;
+    align-items: center;
+
+}
+
+#columns{
+    display: flex;
+    justify-content: space-around;
+}
